@@ -1,0 +1,23 @@
+Github: https://github.com/WoBhosting/WoBSite
+Example of goal: https://www.battleforthenet.com/ - oh this is handy... https://github.com/fightforthefuture/battleforthenet-www
+
+########################
+Website goals:
+Update website
+HTML5
+Pretty front end "stuff"
+JS
+Animation
+Easier to navigate and use
+########################
+Deadlines:
+[]10/21 - Full plan
+[]10/22 - outline of index page (w/o images and txt)
+[]10/24 - outline of game services page
+[]10/26 - outline of web services page
+[]10/28 - outline of all pages complete
+[]10/28 - WHMCS template
+[]10/29 - Mostly complete site
+[]10/30 - complete site, only minor bugs/problems/holes, minor changes necessary before launch
+[]11/1/14 - Launch Site
+########################
