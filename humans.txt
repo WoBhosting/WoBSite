@@ -1,0 +1,22 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Brent Fagersten
+    Role: 
+    twitter: WoBBwcf99
+	
+	Joshua Garde
+	Role: 
+	Twitter: 
+
+# THANKS
+
+   
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Bootstrap
+    
